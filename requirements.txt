@@ -1,0 +1,1 @@
+# Standard library only - no dependencies, just like regex shouldn't depend on your sanity
